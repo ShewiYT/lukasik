@@ -1,0 +1,20 @@
+{
+	"ids": {
+		"6": {
+			"id": 6,
+			"active": 3,
+			"message": 1
+		},
+		"7": {
+			"id": 7,
+			"active": 3,
+			"message": 2
+		},
+		"8": {
+			"id": 8,
+			"active": 3,
+			"message": 2
+		}
+	},
+	"timer": 1
+}
