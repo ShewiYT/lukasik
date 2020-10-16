@@ -1,2 +1,2 @@
-node game
+node  game.html
 pause
